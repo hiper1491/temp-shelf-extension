@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "臨時書籤收納員",
+  "version": "1.0",
+  "description": "幫我把亂七八糟的購物網頁一鍵收起來",
+  "permissions": [
+    "bookmarks",
+    "tabs"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
